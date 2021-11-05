@@ -7,7 +7,9 @@ Example pulling from:
 import time
 print("Beck's Depression inventory")
 total = []
-category = ['Sadness',
+
+#instead of different categories, I'll be using the questions in the ASI
+category = ['Sadness',         
             'Pessimism',
             'Past Failure',
             'Loss of Pleasure',
@@ -28,6 +30,8 @@ category = ['Sadness',
             'Ability to concentrate',
             'Tiredness or Fatigue',
             'Loss of sexual Interest']
+
+#somehow will incorporate the ASI ratings into this instead
 ans0 = ['I do not feel sad.',
         'I am not discouraged about my future.',
         'I do not feel like a failure.',
@@ -135,6 +139,8 @@ def questions():
         print(total)
         print(sum(total))
 questions()
+
+#will figure out a different progress following the ASI
 progress = open("progress.txt", "w")
 if 1 <= sum(total) <= 10:
     print('Normal ups and downs')
