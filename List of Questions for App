@@ -1,0 +1,378 @@
+Questions taken from the Addiction Severity Index - will probably par down as there are a lot of questions. Plus trying to streamline them into all fitting into the code to 
+work, I'll probably stick with keeping questions that have the same number of answers to keep it streamlined.
+
+1.	How many times in your life have you been hospitalized for medical problems? Include ODs and DTs. Exclude detox, alcohol/drug, psychiatric treatment, and childbirth 
+(if no complications). Enter the number of overnight hospitalizations for medical problems.
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+2.	How long ago was your last hospitalization for physical problem?
+a.	0 – 3 months
+b.	4 – 6 months
+c.	6 – 9 months
+d.	10 – 12 months
+e.	Over a year ago
+f.	Never
+
+3.	Do you have any chronic medical problems that continue to interfere with your life? A chronic medical condition is a serious physical condition that requires regular care 
+(i.e., medication, dietary restriction), preventing full advantage of the person’s abilities.
+a.	No
+b.	Yes
+
+4.	Are you taking any prescribed medication on a regular basis for a physical problem? Medication prescribed by an M.D. for medical conditions; not psychiatric medicines. 
+Include medicines prescribed whether or not the patient is currently taking them. The intent is to verify chronic medical problems.
+a.	No
+b.	Yes
+
+5.	Do you receive a pension for physical disability? Include worker’s compensation; exclude psychiatric disability.
+a.	No
+b.	Yes
+
+6.	How many days have you experienced medical problems in the past 30 days? Include flue, colds, etc. Include serious ailments related to drugs/alcohol, which would continue 
+even if the patient were abstinent (e.g., cirrhosis of liver, abscesses for needles).
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+7.	How troubled or bothered have you been by these medical problems in the past 30 days?
+a.	Not at all
+b.	Slightly
+c.	Moderately
+d.	Considerably
+e.	Extremely
+
+8.	How important to you is treatment for these medical problems?
+a.	Not at all
+b.	Slightly
+c.	Moderately
+d.	Considerably
+e.	Extremely
+
+9.	How many days in the past 30 days have you used alcohol?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+10.	How many years in your life have you regularly used alcohol?
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+11.	How many days in the past 30 days have you used alcohol to intoxication?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+12.	How many years in your life have you regularly used alcohol to intoxication?
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+13.	How many days in the past 30 days have you used heroin?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+14.	How many years in your life have you regularly used heroin?
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+15.	What is the most usual or most recent route of administration of heroin?
+a.	Oral
+b.	Nasal
+c.	Smoking
+d.	Non-IV injection
+e.	IV injection
+
+16.	How many days in the past 30 days have you used methadone?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+17.	How many years in your life have you regularly used methadone?
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+18.	What is the most usual or most recent route of administration of methadone?
+a.	Oral
+b.	Nasal
+c.	Smoking
+d.	Non-IV injection
+e.	IV injection
+
+19.	How many days in the past 30 days have you used other opiates/analgesics?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+20.	How many years in your life have you regularly used other opiates/analgesics?
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+21.	What is the most usual or most recent route of administration of other opiates/analgesics?
+a.	Oral
+b.	Nasal
+c.	Smoking
+d.	Non-IV injection
+e.	IV injection
+
+22.	How many days in the past 30 days have you used barbiturates?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+23.	How many years in your life have you regularly used barbiturates?
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+24.	What is the most usual or most recent route of administration of barbiturates?
+a.	Oral
+b.	Nasal
+c.	Smoking
+d.	Non-IV injection
+e.	IV injection
+
+25.	How many days in the past 30 days have you used sedatives/hypnotics/tranquilizers?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+26.	How many years in your life have you regularly used sedatives/hypnotics/tranquilizers?
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+27.	What is the most usual or most recent route of administration of sedatives/hypnotics/tranquilizers?
+a.	Oral
+b.	Nasal
+c.	Smoking
+d.	Non-IV injection
+e.	IV injection
+
+28.	How many days in the past 30 days have you used cocaine?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+29.	How many years in your life have you regularly used cocaine?
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+30.	What is the most usual or most recent route of administration of cocaine?
+a.	Oral
+b.	Nasal
+c.	Smoking
+d.	Non-IV injection
+e.	IV injection
+
+31.	How many days in the past 30 days have you used amphetamines?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+32.	How many years in your life have you regularly used amphetamines?
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+33.	What is the most usual or most recent route of administration of amphetamines?
+a.	Oral
+b.	Nasal
+c.	Smoking
+d.	Non-IV injection
+e.	IV injection
+
+34.	How many days in the past 30 days have you used cannabis?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+35.	How many years in your life have you regularly used cannabis?
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+36.	What is the most usual or most recent route of administration of cannabis?
+a.	Oral
+b.	Nasal
+c.	Smoking
+d.	Non-IV injection
+e.	IV injection
+
+37.	How many days in the past 30 days have you used hallucinogens?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+38.	How many years in your life have you regularly used hallucinogens?
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+39.	What is the most usual or most recent route of administration of hallucinogens?
+a.	Oral
+b.	Nasal
+c.	Smoking
+d.	Non-IV injection
+e.	IV injection
+
+40.	How many days in the past 30 days have you used inhalants?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+41.	How many years in your life have you regularly used inhalants?
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+42.	What is the most usual or most recent route of administration of inhalants?
+a.	Oral
+b.	Nasal
+c.	Smoking
+d.	Non-IV injection
+e.	IV injection
+
+43.	How many days in the past 30 days have you used more than one substance per day (including alcohol)?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+44.	How many years in your life have you regularly used more than one substance per day (including alcohol)?
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+45.	How many times have you had alcohol DTs? Delirium Tremens occur 24-48 hours after last drink or significant decrease in alcohol intake; includes shaking, severe 
+disorientation, fever, hallucinations. DTs usually require medical attention.
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+46.	How many times have you overdosed on drugs? Overdoses requires intervention by someone to recover, not simply sleeping it off; include suicide attempts by OD.
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+47.	How many times in your life have you been treated for alcohol abuse?
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+48.	How many times in your life have you been treated for drug abuse? Include detoxification, halfway houses, in/outpatient counseling, and AA or NA (if 3+ meetings within 
+1-month period).
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+49.	How much money would you say you spent during the past 30 days on alcohol?
+a. $1-$50
+b. $51-$100
+c. $101-$150
+d. $151-$200
+e. $201+
+f. none
+
+50. How much money would you say you spent during the past 30 on drugs? (Count only actual money spent)
