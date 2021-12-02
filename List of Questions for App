@@ -1,10 +1,8 @@
-Questions taken from the Addiction Severity Index - will probably par down as there are a lot of questions. Plus trying to streamline them into all fitting into the code to 
-work, I'll probably stick with keeping questions that have the same number of answers to keep it streamlined.
+Questions taken from the Addiction Severity Index - will probably par down as there are a lot of questions. Plus trying to streamline them into all fitting into the code to work, I'll probably stick with keeping questions that have the same number of answers to keep it streamlined.
 
 MEDICAL STATUS QUESTIONS
 
-1.	How many times in your life have you been hospitalized for medical problems? Include ODs and DTs. Exclude detox, alcohol/drug, psychiatric treatment, and childbirth 
-(if no complications). Enter the number of overnight hospitalizations for medical problems.
+1.	How many times in your life have you been hospitalized for medical problems? Include ODs and DTs. Exclude detox, alcohol/drug, psychiatric treatment, and childbirth (if no complications). Enter the number of overnight hospitalizations for medical problems.
 a.	0-1
 b.	2-3
 c.	4-5
@@ -20,13 +18,11 @@ d.	10 – 12 months
 e.	Over a year ago
 f.	Never
 
-3.	Do you have any chronic medical problems that continue to interfere with your life? A chronic medical condition is a serious physical condition that requires regular care 
-(i.e., medication, dietary restriction), preventing full advantage of the person’s abilities.
+3.	Do you have any chronic medical problems that continue to interfere with your life? A chronic medical condition is a serious physical condition that requires regular care (i.e., medication, dietary restriction), preventing full advantage of the person’s abilities.
 a.	No
 b.	Yes
 
-4.	Are you taking any prescribed medication on a regular basis for a physical problem? Medication prescribed by an M.D. for medical conditions; not psychiatric medicines. 
-Include medicines prescribed whether or not the patient is currently taking them. The intent is to verify chronic medical problems.
+4.	Are you taking any prescribed medication on a regular basis for a physical problem? Medication prescribed by an M.D. for medical conditions; not psychiatric medicines. Include medicines prescribed whether or not the patient is currently taking them. The intent is to verify chronic medical problems.
 a.	No
 b.	Yes
 
@@ -34,8 +30,7 @@ b.	Yes
 a.	No
 b.	Yes
 
-6.	How many days have you experienced medical problems in the past 30 days? Include flue, colds, etc. Include serious ailments related to drugs/alcohol, which would continue 
-even if the patient were abstinent (e.g., cirrhosis of liver, abscesses for needles).
+6.	How many days have you experienced medical problems in the past 30 days? Include flue, colds, etc. Include serious ailments related to drugs/alcohol, which would continue even if the patient were abstinent (e.g., cirrhosis of liver, abscesses for needles).
 a.	0 – 5 days
 b.	6 – 10 days
 c.	11 – 15 days
@@ -337,8 +332,7 @@ d.	16 – 20 years
 e.	21 – 25 years
 f.	26+ years
 
-45.	How many times have you had alcohol DTs? Delirium Tremens occur 24-48 hours after last drink or significant decrease in alcohol intake; includes shaking, severe 
-disorientation, fever, hallucinations. DTs usually require medical attention.
+45.	How many times have you had alcohol DTs? Delirium Tremens occur 24-48 hours after last drink or significant decrease in alcohol intake; includes shaking, severe disorientation, fever, hallucinations. DTs usually require medical attention.
 a.	0-1
 b.	2-3
 c.	4-5
@@ -362,8 +356,7 @@ d.	6-7
 e.	8-9
 f.	10+
 
-48.	How many times in your life have you been treated for drug abuse? Include detoxification, halfway houses, in/outpatient counseling, and AA or NA (if 3+ meetings within 
-1-month period).
+48.	How many times in your life have you been treated for drug abuse? Include detoxification, halfway houses, in/outpatient counseling, and AA or NA (if 3+ meetings within 1-month period).
 a.	0-1
 b.	2-3
 c.	4-5
@@ -403,8 +396,7 @@ d.	16 – 20 days
 e.	21 – 25 days
 f.	26+ days
 
-53. How many days in the past 30 days have you experienced drug problems? (Include: Craving, withdrawl symptoms, disturbing effects of use, or wanting to stop and being 
-unable to.)
+53. How many days in the past 30 days have you experienced drug problems? (Include: Craving, withdrawl symptoms, disturbing effects of use, or wanting to stop and being unable to.)
 a.	0 – 5 days
 b.	6 – 10 days
 c.	11 – 15 days
@@ -442,8 +434,115 @@ e.	Extremely
 
 LEGAL STATUS QUESITONS
 
-58. How many days in the past 30 days have you engaged in illegal activites for profit? (Exclude simple drug possession. Include drug dealing, prostitution, selling stolen 
-good, etc.)
+58.  Are you on parole or probation?
+a. No
+b. Yes
+
+59. How many times in your life have you been arrested and charged with shoplifting/vandalism?
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+60. How many times in your life have you been arrested and charged with parole/probation violations?
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+61. How many times in your life have you been arrested and charged with drug charges?
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+62. How many times in your life have you been arrested and charged with forgery?
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+63. How many times in your life have you been arrested and charged with weapons offense?
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+64. How many times in your life have you been arrested and charged with burglary/larceny/breaking and entering?
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+65. How many times in your life have you been arrested and charged with robbery? (Include total number of counts, not just convictions. Do not include juvenile (pre age 18) crimes, unless client was charged as an adult. Include formal charges only.)
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+66. How many times in your life have you been arrested and charged with assult?
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+67. How many times in your life have you been arrested and charged with arson?
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+68. How many times in your life have you been arrested and charged with rape?
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+69. How many times in your life have you been arrested and charged with homicide/manslaughter?
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+70. How many times in your life have you been arrested and charged with prostitution?
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+71. How many times in your life have you been arrested and charged with contempt of court?
+a.	0-1
+b.	2-3
+c.	4-5
+d.	6-7
+e.	8-9
+f.	10+
+
+72. How many days in the past 30 days have you engaged in illegal activites for profit? (Exclude simple drug possession. Include drug dealing, prostitution, selling stolen good, etc.)
 a.	0 – 5 days
 b.	6 – 10 days
 c.	11 – 15 days
@@ -451,15 +550,14 @@ d.	16 – 20 days
 e.	21 – 25 days
 f.	26+ days
 
-59. How serious do you feel your present legal problems are? (Exclude civil problems)
+73. How serious do you feel your present legal problems are? (Exclude civil problems)
 a.	Not at all
 b.	Slightly
 c.	Moderately
 d.	Considerably
 e.	Extremely
 
-60. How important to you now is counseling or referral for these legal problems? (Paitent is rating a need for additional referral to legal counsel for dense against criminal 
-charges)
+74. How important to you now is counseling or referral for these legal problems? (Paitent is rating a need for additional referral to legal counsel for dense against criminal charges)
 a.	Not at all
 b.	Slightly
 c.	Moderately
@@ -467,12 +565,289 @@ d.	Considerably
 e.	Extremely
 
 FAMILY HISTORY QUESTIONS
+ 
+75. Does your maternal grandmother have/had what you would call a significant drinking problem? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
 
-61.  Are you on parole or probation?
+76. Does your maternal grandmother have/had what you would call significant drug use? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+77. Does your maternal grandmother have/had what you would call a significant psychiatric problem? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+78. Does your maternal grandfather have/had what you would call a signficant drinking problem? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+79. Does your maternal grandfather have/had what you would call significant drug use? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+80. Does your maternal grandfather have/had what you would call a significant psychiatric problem? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+81. Does your mother have/had what you would call a signficant drinking problem? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+82. Does your mother have/had what you would call significant drug use? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+83. Does your mother have/had what you would call a significant psychiatric problem? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+84. Does your mother's sister have/had what you would call a signficant drinking problem? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+85. Does your mother's sister have/had what you would call significant drug use? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+86. Does your mother's sister have/had what you would call a significant psychiatric problem? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+87. Does your mother's brother have/had what you would call a signficant drinking problem? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+88. Does your mother's brother have/had what you would call significant drug use? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+89. Does your mother's brother have/had what you would call a significant psychiatric problem? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+90. Does your paternal grandmother have/had what you would call a signficant drinking problem? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+91. Does your paternal grandmother have/had what you would call significant drug use? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+92. Does your paternal grandmother have/had what you would call a significant psychiatric problem? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+93. Does your paternal grandfather have/had what you would call a signficant drinking problem? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+94. Does your paternal grandfather have/had what you would call significant drug use? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+95. Does your paternal grandfather have/had what you would call a significant psychiatric problem? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+96. Does your father have/had what you would call a signficant drinking problem? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+97. Does your father have/had what you would call significant drug use? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+98. Does your father have/had what you would call a significant psychiatric problem? Specifically, was there a problem that did or should have led to treatment?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+99. Does your father's sister have/had what you would call a signficant drinking problem? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+100. Does your father's sister have/had what you would call significant drug use? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+101. Does your father's sister have/had what you would call a significant psychiatric problem? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+102. Does your father's brother have/had what you would call a signficant drinking problem? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+103. Does your father's brother have/had what you would call significant drug use? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+104. Does your father's brother have/had what you would call a significant psychiatric problem? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+105. Does your brother have/had what you would call a signficant drinking problem? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+106. Does your brother have/had what you would call significant drug use? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+107. Does your brother have/had what you would call a significant psychiatric problem? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+108. Does your sister have/had what you would call a signficant drinking problem? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+109. Does your sister have/had what you would call significant drug use? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+110. Does your sister have/had what you would call a significant psychiatric problem? Specifically, was there a problem that did or should have led to treatment? (If cases in which there is more than one person for a category, report the most severe.)
+a. No
+b. Yes
+c. Uncertain
+d. Never had a realitive in that category
+
+FAMILY/SOCIAL RELATIONSHIPS
+
+111. Marital Status:
+a. Married
+b. Remarried
+c. Widowed
+d. Separated
+e. Divorced
+f. Never Married
+
+112. How long have you been in this marital status? (If never married, then since age 18)
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+113. Are you satisfied with this situation? (referring to past 2 questions)
+a. No
+b. Indifferent
+c. Yes
+
+114. What has been your usual living arrangements over the past 3 years? (Choose arrangements most representative of the past 3 years. If there is an even split in time between these arragements, choose the most recent arragement.)
+a. With sexual partner and children
+b. With sexual partner alone
+c. With children alone
+d. With parents
+e. With family
+f. With friends
+g. Alone
+h. Controlled evnironment
+i. No stable arrangement
+
+115. How long have you lived in these arrangements? (If with parents or family, since age 18.)
+a.	0 – 5 years
+b.	6 – 10 years
+c.	11 – 15 years
+d.	16 – 20 years
+e.	21 – 25 years
+f.	26+ years
+
+116. Are you satisfied with these arragements?
+a. No
+b. Indifferent
+c. Yes
+
+117. Do you live with anyone who has a current alochol problem?
 a. No
 b. Yes
 
-62. How many times in your life have you been arrested and charged with shoplifting/vandalism?
+118. Do you live with anyone who uses nonprescribed drugs, or abuses prescribed drugs? 
+a. No
+b. Yes
+
+119. With whom do you spend most of your free time?
+a. Family
+b. Friends
+c. Alone
+
+120. Are you satisfied with spending your free time this way?
+a. No
+b. Indifferent
+c. Yes
+
+121. How many close friends do you have? (Exclude family members. Theses are "reciprocal" relationships or mutually supportive replationships.
 a.	0-1
 b.	2-3
 c.	4-5
@@ -480,7 +855,185 @@ d.	6-7
 e.	8-9
 f.	10+
 
-63. How many times in your life have you been arrested and charged with parole/probation violations?
+122. Would you say you have had a close, long-lasting, personal relationship with your mother in your life?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a relative in category
+
+123. Would you say you have had a close, long-lasting, personal relationship with your father in your life?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a relative in category
+
+124. Would you say you have had a close, long-lasting, personal relationship with you brothers/sisters in your life?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a relative in category
+
+125. Would you say you have had a close, long-lasting, personal relationship with a sexual partner/spouse in your life?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a relative in category
+
+126. Would you say you have had a close, long-lasting, personal relationship with your children in your life?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a relative in category
+
+127. Would you say you have had a close, long-lasting, personal relationship with friends in your life?
+a. No
+b. Yes
+c. Uncertain
+d. Never had a relative in category
+
+128. Have you had significant periods in which you have experienced serious problems getting along with your mother in the past 30 days?
+a. No
+b. Yes
+
+129. Have you had significant periods in which you have experienced serious problems getting along with your mother in your life?
+a. No
+b. Yes
+
+130. Have you had significant periods in which you have experienced serious problems getting along with your father in the past 30 days?
+a. No
+b. Yes
+
+131. Have you had significant periods in which you have experienced serious problems getting along with your father in your life?
+a. No
+b. Yes
+
+132. Have you had significant periods in which you have experienced serious problems getting along with your brother/sister in the past 30 days?
+a. No
+b. Yes
+
+133. Have you had significant periods in which you have experienced serious problems getting along with your brother/sister in your life?
+a. No
+b. Yes
+
+134. Have you had significant periods in which you have experienced serious problems getting along with a sexual partner/spouse in the past 30 days?
+a. No
+b. Yes
+
+135. Have you had significant periods in which you have experienced serious problems getting along with a sexual partner/spouse in your life?
+a. No
+b. Yes
+
+136. Have you had significant periods in which you have experienced serious problems getting along with your children in the past 30 days?
+a. No
+b. Yes
+
+137. Have you had significant periods in which you have experienced serious problems getting along with your children in your life?
+a. No
+b. Yes
+
+138. Have you had significant periods in which you have experienced serious problems getting along with other significant family in the past 30 days?
+a. No
+b. Yes
+
+139. Have you had significant periods in which you have experienced serious problems getting along with other significant family in your life?
+a. No
+b. Yes
+
+140. Have you had significant periods in which you have experienced serious problems getting along with your close friends in the past 30 days?
+a. No
+b. Yes
+
+141. Have you had significant periods in which you have experienced serious problems getting along with your close friends in your life?
+a. No
+b. Yes
+
+142. Have you had significant periods in which you have experienced serious problems getting along with neighbors in the past 30 days?
+a. No
+b. Yes
+
+143. Have you had significant periods in which you have experienced serious problems getting along with neighbors in your life?
+a. No
+b. Yes
+
+144. Have you had significant periods in which you have experienced serious problems getting along with coworkers in the past 30 days?
+a. No
+b. Yes
+
+145. Have you had significant periods in which you have experienced serious problems getting along with coworkers in your life?
+a. No
+b. Yes
+
+146. Has anyone ever abused you emotionally in the past 30 days? (Made you feel bad through harsh words)
+a. No
+b. Yes
+
+147. Has anyone ever abused you emotionally in your life? (Made you feel bad through harsh words)
+a. No
+b. Yes
+
+148. Has anyone ever abused you physically in the past 30 days? (Caused you physical harm)
+a. No
+b. Yes
+
+149. Has anyone ever abused you physically in your life? (Caused you physical harm)
+a. No
+b. Yes
+
+150. Has anyone ever abused you sexually in the past 30 days? (Forced sexual advances/acts)
+a. No
+b. Yes
+
+151. Has anyone ever abused you sexually in your life? (Forced sexual advances/acts)
+a. No
+b. Yes
+
+152. How many days in the past 30 days have you had serious conflicts with your family?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+153. How many daysin the past 30 days have you had serious conflicts with other people (excluding family)?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+154. How troubled or bothered have you been in the past 30 days by family problems?
+a. Not at all
+b. Slightly
+c. Moderately
+d. Considerable
+e. Extremely
+
+155. How troubled or bothered have you been in the past 30 days by social problems?
+a. Not at all
+b. Slightly
+c. Moderately
+d. Considerable
+e. Extremely
+
+156. How important to you now is treatment or counceling for family problems? (You are rating your need for counseling for family problems, not whether the patient would be willing to attend.)
+a. Not at all
+b. Slightly
+c. Moderately
+d. Considerable
+e. Extremely
+
+157. How important to you now is treatment or counseling for social problems? (Include your need to seek treatment for such social problems as loneliness, inability to socialize, and dissatisfaction with friends. Your rating should refer to dissatisfaction, conflicts, or other serious problems.)
+a. Not at all
+b. Slightly
+c. Moderately
+d. Considerable
+e. Extremely
+
+PSYCHIATRIC STATUS
+
+158. How many times have you been treated for any psychological or emotional problems in a hospital or impatient setting?
 a.	0-1
 b.	2-3
 c.	4-5
@@ -488,7 +1041,7 @@ d.	6-7
 e.	8-9
 f.	10+
 
-64. How many times in your life have you been arrested and charged with drug charges?
+159. How many times have you been treated for any phychological or emotional problems as an outpatient/private patient? (Do not include substance abuse, employment, or family counseling. Treatment episode = a series of more or less continuous visits or treatment days, not hte number of visits or treatment days.)
 a.	0-1
 b.	2-3
 c.	4-5
@@ -496,85 +1049,95 @@ d.	6-7
 e.	8-9
 f.	10+
 
-65. How many times in your life have you been arrested and charged with forgery?
-a.	0-1
-b.	2-3
-c.	4-5
-d.	6-7
-e.	8-9
-f.	10+
+160. Do you receive ap ension for a phychiatric disability?
+a. No
+B. Yes
 
-66. How many times in your life have you been arrested and charged with weapons offense?
-a.	0-1
-b.	2-3
-c.	4-5
-d.	6-7
-e.	8-9
-f.	10+
+161. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have experienced serious dispression, sadness, hopelessness, loss of interest, difficulty with daily functioning in the past 30 days?
+a. No
+b. Yes
 
-67. How many times in your life have you been arrested and charged with burglary/larceny/breaking and entering?
-a.	0-1
-b.	2-3
-c.	4-5
-d.	6-7
-e.	8-9
-f.	10+
+162. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have experienced serious dispression, sadness, hopelessness, loss of interest, difficulty with daily functioning in your life?
+a. No
+b. Yes
 
-68. How many times in your life have you been arrested and charged with robbery? (Include total number of counts, not just convictions. Do not include juvenile (pre age 18) 
-crimes, unless client was charged as an adult. Include formal charges only.)
-a.	0-1
-b.	2-3
-c.	4-5
-d.	6-7
-e.	8-9
-f.	10+
+163. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have experienced serious anxiety/tension--were uptight, unreasonably worried, unable to feel relaxed in the past 30 days?
+a. No
+b. Yes
 
-69. How many times in your life have you been arrested and charged with assult?
-a.	0-1
-b.	2-3
-c.	4-5
-d.	6-7
-e.	8-9
-f.	10+
+164. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have experienced serious anxiety/tension--were uptight, unreasonably worried, unable to feel relaxed in your life?
+a. No
+b. Yes
 
-70. How many times in your life have you been arrested and charged with arson?
-a.	0-1
-b.	2-3
-c.	4-5
-d.	6-7
-e.	8-9
-f.	10+
+165. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have experiencced hallucinations--saw things or heard voices that others din't see/hear in the past 30 days?
+a. No
+b. Yes
 
-71. How many times in your life have you been arrested and charged with rape?
-a.	0-1
-b.	2-3
-c.	4-5
-d.	6-7
-e.	8-9
-f.	10+
+166. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have experiencced hallucinations--saw things or heard voices that others din't see/hear in your life?
+a. No
+b. Yes
 
-72. How many times in your life have you been arrested and charged with homicide/manslaughter?
-a.	0-1
-b.	2-3
-c.	4-5
-d.	6-7
-e.	8-9
-f.	10+
+167. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have experienced trouble understanding, concentrating, or remembering in the past 30 days?
+a. No
+b. Yes
 
-73. How many times in your life have you been arrested and charged with prostitution?
-a.	0-1
-b.	2-3
-c.	4-5
-d.	6-7
-e.	8-9
-f.	10+
+168. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have experiencced trouble understanding, concentrating, or remembering in your life?
+a. No
+b. Yes
 
-74. How many times in your life have you been arrested and charged with contempt of court?
-a.	0-1
-b.	2-3
-c.	4-5
-d.	6-7
-e.	8-9
-f.	10+
+169. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have experienced trouble controlling violent behavior, including episodes of rage or violence in the past 30 days? (This can include being under the influence of alcohol/drugs.)
+a. No
+b. Yes
+
+170. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have experienced trouble controlling violent behavior, including episodes of rage or violence in your life? (This can include being under the influence of alcohol/drugs.)
+a. No
+b. Yes
+
+171. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have experienced serious thoughts of suicide in the past 30 days? (You seriously considered aplan for taking your life. This could have been under the influence of alcohol/drugs.)
+a. No
+b. Yes
+
+172. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have experienced serious thoughts of suicide in your life? (You seriously considered aplan for taking your life. This could have been under the influence of alcohol/drugs.)
+a. No
+b. Yes
+
+173. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have attempted suicide in the past 30 days? (Include actual suicidal gestures or attempts. This could have been under the influence of alochol/drugs.)
+a. No
+b. Yes
+
+174. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have attempted suicide in your life? (Include actual suicidal gestures or attempts. This could have been under the influence of alochol/drugs.)
+a. No
+b. Yes
+
+175. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have been prescribed medication for any psychological or emotional problems in the past 30 days? (Prescribed to you by a physician. Answer 'yes' if a medication was prescribed even if you are no longer taking it.)
+a. No
+b. Yes
+
+176. Have you had a significant period of time (that was not a direct result of alcohol/drug use) in which you have been prescribed medication for any psychological or emotional problems in your life? (Prescribed to you by a physician. Answer 'yes' if a medication was prescribed even if you are no longer taking it.)
+a. No
+b. Yes
+
+177. How many days in the past 30 days have you experienced these psychologival or emotional problems?
+a.	0 – 5 days
+b.	6 – 10 days
+c.	11 – 15 days
+d.	16 – 20 days
+e.	21 – 25 days
+f.	26+ days
+
+178. How much have your been troubled or bothered by these psychological or emotional problems in the past 30 days?
+a. Not at all
+b. Slightly
+c. Moderately
+d. Considerable
+e. Extremely
+
+179. How important to you now is treatment for these psychological or emotional problems?
+a. Not at all
+b. Slightly
+c. Moderately
+d. Considerable
+e. Extremely
+
 
 
