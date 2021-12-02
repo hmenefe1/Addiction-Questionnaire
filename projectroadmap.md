@@ -13,3 +13,5 @@ Create the questionnaire based off of the Addiction Severity Index, 5th Edition 
 Convert questions from questionnaire into new code : 
 
 If more than 20 questions, need to adjust code to show this : 
+
+Create code for each category of addiction questions: 
