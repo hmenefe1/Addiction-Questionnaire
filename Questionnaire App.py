@@ -451,9 +451,9 @@ def questionaire():
         print('4 :' + ans4[rounds])
         q1 = input('Answer: \n')
         print(q1)
-        # if q1 is not 0 or 1 or 2 or 3 or 4:
-        #     print('Please select a valid answer')
-        #     rounds = rounds
+        if q1 is not 0 or 1 or 2 or 3 or 4:
+            print('Please select a valid answer')
+            rounds = rounds
         if q1 is 0 or 1 or 2 or 3 or 4:
             total.append(int(q1))
             rounds = rounds + 1
