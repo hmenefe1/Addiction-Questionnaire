@@ -500,21 +500,21 @@ ans4 = ['8+',
 
 def questionaire():
     rounds = 0
-    while rounds < 20: #this number may change if I add more questions
+    while rounds < 81: #this is the number of questions I have
         print('Question ')
         print(rounds + 1)
         print(questions[rounds] + ':')
-        print('0 :' + ans0[rounds])
-        print('1 :' + ans1[rounds])
-        print('2 :' + ans2[rounds])
-        print('3 :' + ans3[rounds])
-        print('4 :' + ans4[rounds])
+        print('1 :' + ans0[rounds])
+        print('2 :' + ans1[rounds])
+        print('3 :' + ans2[rounds])
+        print('4 :' + ans3[rounds])
+        print('5 :' + ans4[rounds])
         q1 = input('Answer: \n')
         print(q1)
-        # if q1 is not 0 or 1 or 2 or 3 or 4:
+        # if q1 is not 1 or 2 or 3 or 4 or 5:
         #     print('Please select a valid answer')
         #     rounds = rounds
-        if q1 is 0 or 1 or 2 or 3 or 4:
+        if q1 is 1 or 2 or 3 or 4 or 5:
             total.append(int(q1))
             rounds = rounds + 1
             print('\n')
@@ -523,7 +523,6 @@ def questionaire():
         print(sum(total))
 questionaire()
 
-#this is a work in progress on figuring out the scoring
 progress = open("progress.txt", "w")
 if 1 <= sum(total) <= 16:
     print('No problem')
