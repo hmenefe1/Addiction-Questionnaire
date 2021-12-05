@@ -7,16 +7,14 @@ a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 2.	How long ago was your last hospitalization for physical problem?
 a.	0 – 3 months
 b.	4 – 6 months
 c.	6 – 9 months
-d.	10 – 12 months
-e.	Over a year ago
-f.	Never
+d.	10+ months
+e.	Never
 
 3.	Do you have any chronic medical problems that continue to interfere with your life? A chronic medical condition is a serious physical condition that requires regular care (i.e., medication, dietary restriction), preventing full advantage of the person’s abilities.
 a.	No
@@ -31,12 +29,11 @@ a.	No
 b.	Yes
 
 6.	How many days have you experienced medical problems in the past 30 days? Include flue, colds, etc. Include serious ailments related to drugs/alcohol, which would continue even if the patient were abstinent (e.g., cirrhosis of liver, abscesses for needles).
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 7.	How troubled or bothered have you been by these medical problems in the past 30 days?
 a.	Not at all
@@ -55,52 +52,46 @@ e.	Extremely
 ALCOHOL/DRUGS QUESTIONS
 
 9.	How many days in the past 30 days have you used alcohol?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 10.	How many years in your life have you regularly used alcohol?
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 11.	How many days in the past 30 days have you used alcohol to intoxication?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 12.	How many years in your life have you regularly used alcohol to intoxication?
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 13.	How many days in the past 30 days have you used heroin?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 14.	How many years in your life have you regularly used heroin?
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 15.	What is the most usual or most recent route of administration of heroin?
 a.	Oral
@@ -110,20 +101,18 @@ d.	Non-IV injection
 e.	IV injection
 
 16.	How many days in the past 30 days have you used methadone?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 17.	How many years in your life have you regularly used methadone?
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 18.	What is the most usual or most recent route of administration of methadone?
 a.	Oral
@@ -133,20 +122,18 @@ d.	Non-IV injection
 e.	IV injection
 
 19.	How many days in the past 30 days have you used other opiates/analgesics?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 20.	How many years in your life have you regularly used other opiates/analgesics?
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 21.	What is the most usual or most recent route of administration of other opiates/analgesics?
 a.	Oral
@@ -156,20 +143,18 @@ d.	Non-IV injection
 e.	IV injection
 
 22.	How many days in the past 30 days have you used barbiturates?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 23.	How many years in your life have you regularly used barbiturates?
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 24.	What is the most usual or most recent route of administration of barbiturates?
 a.	Oral
@@ -179,20 +164,18 @@ d.	Non-IV injection
 e.	IV injection
 
 25.	How many days in the past 30 days have you used sedatives/hypnotics/tranquilizers?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 26.	How many years in your life have you regularly used sedatives/hypnotics/tranquilizers?
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 27.	What is the most usual or most recent route of administration of sedatives/hypnotics/tranquilizers?
 a.	Oral
@@ -202,20 +185,18 @@ d.	Non-IV injection
 e.	IV injection
 
 28.	How many days in the past 30 days have you used cocaine?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 29.	How many years in your life have you regularly used cocaine?
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 30.	What is the most usual or most recent route of administration of cocaine?
 a.	Oral
@@ -225,20 +206,18 @@ d.	Non-IV injection
 e.	IV injection
 
 31.	How many days in the past 30 days have you used amphetamines?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 32.	How many years in your life have you regularly used amphetamines?
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 33.	What is the most usual or most recent route of administration of amphetamines?
 a.	Oral
@@ -248,20 +227,18 @@ d.	Non-IV injection
 e.	IV injection
 
 34.	How many days in the past 30 days have you used cannabis?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 35.	How many years in your life have you regularly used cannabis?
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 36.	What is the most usual or most recent route of administration of cannabis?
 a.	Oral
@@ -271,20 +248,18 @@ d.	Non-IV injection
 e.	IV injection
 
 37.	How many days in the past 30 days have you used hallucinogens?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 38.	How many years in your life have you regularly used hallucinogens?
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 39.	What is the most usual or most recent route of administration of hallucinogens?
 a.	Oral
@@ -294,20 +269,18 @@ d.	Non-IV injection
 e.	IV injection
 
 40.	How many days in the past 30 days have you used inhalants?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 41.	How many years in your life have you regularly used inhalants?
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 42.	What is the most usual or most recent route of administration of inhalants?
 a.	Oral
@@ -317,92 +290,81 @@ d.	Non-IV injection
 e.	IV injection
 
 43.	How many days in the past 30 days have you used more than one substance per day (including alcohol)?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 44.	How many years in your life have you regularly used more than one substance per day (including alcohol)?
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 45.	How many times have you had alcohol DTs? Delirium Tremens occur 24-48 hours after last drink or significant decrease in alcohol intake; includes shaking, severe disorientation, fever, hallucinations. DTs usually require medical attention.
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 46.	How many times have you overdosed on drugs? Overdoses requires intervention by someone to recover, not simply sleeping it off; include suicide attempts by OD.
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 47.	How many times in your life have you been treated for alcohol abuse?
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 48.	How many times in your life have you been treated for drug abuse? Include detoxification, halfway houses, in/outpatient counseling, and AA or NA (if 3+ meetings within 1-month period).
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 49.	How much money would you say you spent during the past 30 days on alcohol?
 a. $1-$50
 b. $51-$100
 c. $101-$150
-d. $151-$200
-e. $201+
-f. none
+d. $151+
+e. none
 
 50. How much money would you say you spent during the past 30 on drugs? (Count only actual money spent)
 a. $1-$50
 b. $51-$100
 c. $101-$150
-d. $151-$200
-e. $201+
-f. none
+d. $151+
+e. none
 
 51. How many days have you been treated in an outpaient setting for alcohol or drugs in the past 30 days? (Include AA/NA)
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 52. How many days in the past 30 days have you experienced alcohol problems?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 53. How many days in the past 30 days have you experienced drug problems? (Include: Craving, withdrawl symptoms, disturbing effects of use, or wanting to stop and being unable to.)
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 54. How troubled or bothered have you been in the past 30 days by alcohol problems?
 a.	Not at all
@@ -443,112 +405,98 @@ a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 60. How many times in your life have you been arrested and charged with parole/probation violations?
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 61. How many times in your life have you been arrested and charged with drug charges?
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 62. How many times in your life have you been arrested and charged with forgery?
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 63. How many times in your life have you been arrested and charged with weapons offense?
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 64. How many times in your life have you been arrested and charged with burglary/larceny/breaking and entering?
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 65. How many times in your life have you been arrested and charged with robbery? (Include total number of counts, not just convictions. Do not include juvenile (pre age 18) crimes, unless client was charged as an adult. Include formal charges only.)
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 66. How many times in your life have you been arrested and charged with assult?
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 67. How many times in your life have you been arrested and charged with arson?
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 68. How many times in your life have you been arrested and charged with rape?
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 69. How many times in your life have you been arrested and charged with homicide/manslaughter?
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 70. How many times in your life have you been arrested and charged with prostitution?
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 71. How many times in your life have you been arrested and charged with contempt of court?
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 72. How many days in the past 30 days have you engaged in illegal activites for profit? (Exclude simple drug possession. Include drug dealing, prostitution, selling stolen good, etc.)
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 73. How serious do you feel your present legal problems are? (Exclude civil problems)
 a.	Not at all
@@ -793,12 +741,11 @@ e. Divorced
 f. Never Married
 
 112. How long have you been in this marital status? (If never married, then since age 18)
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 113. Are you satisfied with this situation? (referring to past 2 questions)
 a. No
@@ -817,12 +764,11 @@ h. Controlled evnironment
 i. No stable arrangement
 
 115. How long have you lived in these arrangements? (If with parents or family, since age 18.)
-a.	0 – 5 years
-b.	6 – 10 years
-c.	11 – 15 years
-d.	16 – 20 years
-e.	21 – 25 years
-f.	26+ years
+a.	0 – 6 years
+b.	7 – 12 years
+c.	13 – 18 years
+d.	19 – 24 years
+e.	25+ years
 
 116. Are you satisfied with these arragements?
 a. No
@@ -852,8 +798,7 @@ a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 122. Would you say you have had a close, long-lasting, personal relationship with your mother in your life?
 a. No
@@ -988,20 +933,18 @@ a. No
 b. Yes
 
 152. How many days in the past 30 days have you had serious conflicts with your family?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 153. How many daysin the past 30 days have you had serious conflicts with other people (excluding family)?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 154. How troubled or bothered have you been in the past 30 days by family problems?
 a. Not at all
@@ -1038,16 +981,14 @@ a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 159. How many times have you been treated for any phychological or emotional problems as an outpatient/private patient? (Do not include substance abuse, employment, or family counseling. Treatment episode = a series of more or less continuous visits or treatment days, not hte number of visits or treatment days.)
 a.	0-1
 b.	2-3
 c.	4-5
 d.	6-7
-e.	8-9
-f.	10+
+e.	8+
 
 160. Do you receive ap ension for a phychiatric disability?
 a. No
@@ -1118,12 +1059,11 @@ a. No
 b. Yes
 
 177. How many days in the past 30 days have you experienced these psychologival or emotional problems?
-a.	0 – 5 days
-b.	6 – 10 days
-c.	11 – 15 days
-d.	16 – 20 days
-e.	21 – 25 days
-f.	26+ days
+a.	0 – 6 days
+b.	7 – 12 days
+c.	13 – 18 days
+d.	19 – 24 days
+e.	25+ days
 
 178. How much have your been troubled or bothered by these psychological or emotional problems in the past 30 days?
 a. Not at all
