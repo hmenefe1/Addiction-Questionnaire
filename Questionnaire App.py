@@ -444,17 +444,17 @@ def questionaire():
         print('Question ')
         print(rounds + 1)
         print(questions[rounds] + ':')
-        print('1 :' + ans0[rounds])
-        print('2 :' + ans1[rounds])
-        print('3 :' + ans2[rounds])
-        print('4 :' + ans3[rounds])
-        print('5 :' + ans4[rounds])
+        print('0 :' + ans0[rounds])
+        print('1 :' + ans1[rounds])
+        print('2 :' + ans2[rounds])
+        print('3 :' + ans3[rounds])
+        print('4 :' + ans4[rounds])
         q1 = input('Answer: \n')
         print(q1)
-        # if q1 is not 1 or 2 or 3 or 4 or 5:
+        # if q1 is not 0 or 1 or 2 or 3 or 4:
         #     print('Please select a valid answer')
         #     rounds = rounds
-        if q1 is 1 or 2 or 3 or 4 or 5:
+        if q1 is 0 or 1 or 2 or 3 or 4:
             total.append(int(q1))
             rounds = rounds + 1
             print('\n')
