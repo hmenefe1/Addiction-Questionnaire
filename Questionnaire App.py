@@ -503,7 +503,7 @@ def questionaire():
     while rounds < 20: #this number may change if I add more questions
         print('Question ')
         print(rounds + 1)
-        print(category[rounds] + ':')
+        print(questions[rounds] + ':')
         print('0 :' + ans0[rounds])
         print('1 :' + ans1[rounds])
         print('2 :' + ans2[rounds])
